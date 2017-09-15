@@ -88,7 +88,7 @@ class MultiqcModule(BaseMultiqcModule):
                 cats,
                 {
                     'id': 'bcl2fastq_sample_counts',
-                    'title': 'bcl2tfastq: Clusters by sample'
+                    'title': 'bcl2fastq: Clusters by sample'
                 }
             )
         )
